@@ -53,5 +53,5 @@ Developed a Customer Segmentation Analysis project to identify different custome
 ## Dashboard Preview
 
 <p align="center">
-<img src="./Customer Segmentation Dashboard.jpg" width="900"/>
+<img src="./Customer Segmentation Analysis Dashboard.jpg" width="900"/>
 </p>
