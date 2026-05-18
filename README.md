@@ -47,6 +47,7 @@ Developed a Customer Segmentation Analysis project to identify different custome
 - Power BI Dashboard (.pbix)
 - Dataset
 - Dashboard Screenshot
+- Excel Workbook (.xlsx)
 
 ---
 
