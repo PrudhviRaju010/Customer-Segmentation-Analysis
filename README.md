@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Developed a Customer Segmentation Analysis project to identify different customer groups based on purchasing behavior and sales patterns. The project focuses on analyzing customer data to discover [...]
+Developed a Customer Segmentation Analysis project to identify different customer groups based on purchasing behavior and sales patterns. 
 
 ---
 
