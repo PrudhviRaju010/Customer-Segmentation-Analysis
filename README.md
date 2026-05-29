@@ -52,14 +52,6 @@ actionable business recommendations to improve customer retention and revenue gr
 
 ---
 
-## Tools Used
-
-- Power BI
-- SQL
-- Excel
-
----
-
 ## Key Insights
 
 ###  Customer Segmentation Overview
@@ -104,6 +96,14 @@ actionable business recommendations to improve customer retention and revenue gr
   highest profit margin at 14.3%
 
 ---
+
+## Tools Used
+
+- Power BI
+- SQL
+- Excel
+
+ --- 
 
 ## Files Included
 
