@@ -14,17 +14,17 @@ actionable business recommendations to improve customer retention and revenue gr
 
 ## Objectives
 
--  Classify customers into meaningful segments based on
+-  Classified customers into meaningful segments based on
   total sales and profit contribution
-- Identify High Value customers who drive the most
+- Identified High Value customers who drive the most
   revenue and profitability for the business
-- Analyze which customer segments are underperforming
+- Analyzed which customer segments are underperforming
   or being incorrectly categorized
-- Compare profit margins across customer groups to
+- Compared profit margins across customer groups to
   understand true business value of each segment
-- Provide data-driven recommendations to improve
+- Provided data-driven recommendations to improve
   customer retention and revenue growth strategy
-- Support business decision-making through interactive
+- Supported business decision-making through interactive
   visualizations and clear reporting
 ---
 
